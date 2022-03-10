@@ -1,0 +1,126 @@
+body{
+    background: white;
+   margin: 0;
+    padding: 0;
+   
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+    
+}
+.text-center{
+    text-align: center;
+    
+}
+.clear{
+    overflow: hidden;
+    
+}
+.header{
+    width:100%;
+    height:60px;
+    padding-left: 250px;
+    padding-top: 40px;
+    background: #f6f9f9;
+    margin: 0 auto;
+    
+}
+.banner{
+width: 100%;
+    height:auto;
+   
+   
+}
+.box{
+    position: relative;
+    
+}
+.box1{
+    position:absolute;
+    margin-top: -650px;
+    margin-left: 410px;
+    
+    
+}
+.design{
+    height: 200px;
+    background: #f6f9f9;
+    margin-top:-25px;
+   
+}
+.text{
+     color: #a0a0a0;
+    padding-top: 40px;
+}
+    
+h1{
+    color:#2d3950;
+    
+}
+.feature{
+    width:100%;
+    height: auto;
+    background: #ffffff;
+}
+.feature_wrapper{
+    height:300px;
+}
+.wrapper{
+    width:200px;
+    
+    float:left;
+    margin-left: 140px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+.portfolio{
+    background: #f6f9f9;
+    height:auto;
+    width: 100%;
+}
+.portfolio_one{
+    height:900px;
+}
+.textfield{
+    padding-top: 30px;
+    
+} 
+.port{
+    padding-top: 30px;
+}
+.image_one{
+    margin-left: 115px;
+    
+    
+} 
+.one{
+ padding: 10px; 
+    
+}
+.image_two{
+     margin-left: 125px;
+} 
+
+.two{
+   
+}
+.footer{
+    height: 100px;
+}
+.copy{
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+.social{
+    margin-right: 130px;
+    margin-top: -40px;
+}
